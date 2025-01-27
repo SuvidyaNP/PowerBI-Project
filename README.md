@@ -1,21 +1,33 @@
-# SALES ANALYSIS PROJECT
+# Sales Analysis Project
 
 This project provides a comprehensive analysis of sales and financial data, identifying key trends and actionable insights to optimize business performance.
 
 ## The data contains the following key columns:
 
 -Segment: Market segment (e.g., Government, Midmarket).
+
 -Country: Location of sales.
+
 -Product: Product category.
+
 -Discount Band: Discounts applied to sales.
+
 -Units Sold: Number of units sold.
+
 -Manufacturing Price: Cost to produce each unit.
+
 -Sale Price: Price per unit sold.
+
 -Gross Sales: Total sales before discounts.
+
 -Discounts: Discounts applied in monetary terms.
+
 -Sales: Net sales after discounts.
+
 -COGS (Cost of Goods Sold): Direct costs to produce sold goods.
+
 -Profit: Earnings after subtracting COGS.
+
 -Date: Sale date, with derived columns for Month Number, Month Name, and Year.
 
 ## Tasks done:
